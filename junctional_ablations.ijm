@@ -30,4 +30,4 @@ call("ij.plugin.frame.ThresholdAdjuster.setMode", "Over/Under");
 selectWindow("Substack (5,6,7,8,9, ... 200)"); // make substack of 22 timepoints (might want to increase this just after ablation)
 saveAs("Tiff", dir+"analysis_"+title);
 
-
+changes!
