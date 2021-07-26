@@ -1,3 +1,3 @@
-# Resources# Resources
+# Interesting snippets of code made by the Mao Lab
 
-gsjqoaoajaba
+Divided by language programming
